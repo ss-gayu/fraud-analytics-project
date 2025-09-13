@@ -86,4 +86,4 @@ _(screenshot placeholder — add once you run the script)_
 - Aspiring **Data Analyst / Fraud Analytics Intern**
 - Skilled in Python, SQL, Data Visualization, and ML
 
-- [LinkedIn](https://www.linkedin.com/ss_gayu/) | [GitHub](https://github.com/ss_gayu)
+- [LinkedIn](https://www.linkedin.com/in/gayathri-ss//) | [GitHub](https://github.com/ss-gayu)
